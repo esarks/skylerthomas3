@@ -1,0 +1,140 @@
+{
+  "project_name": "Out of the Swamp: How I Found Truth",
+  "project_type": "Publisher's Review Edition",
+  "author": "Skyler Thomas",
+  "primary_purpose": "Feature the author's songs",
+
+  "editorial_phases": {
+    "phase_1": {
+      "name": "Structure",
+      "weeks": "1-6",
+      "focus": "Chapter organization, redundancy elimination, pacing"
+    },
+    "phase_2": {
+      "name": "Content",
+      "weeks": "7-10",
+      "focus": "Personal narrative expansion, theological tightening"
+    },
+    "phase_3": {
+      "name": "Polish",
+      "weeks": "11-12",
+      "focus": "Final line editing, consistency, formatting"
+    }
+  },
+
+  "movements": {
+    "1": {
+      "title": "In the Swamp (The Struggle)",
+      "original_chapter_count": 4,
+      "target_chapter_count": 2,
+      "status": "completed",
+      "completion_date": "2025-10-15",
+      "songs": {
+        "total": 4,
+        "kept": 2,
+        "removed": 2,
+        "removal_approved": true
+      }
+    },
+    "2": {
+      "title": "At the Water's Edge (Encountering Grace)",
+      "original_chapter_count": 4,
+      "target_chapter_count": 4,
+      "status": "pending",
+      "songs": {
+        "total": 4,
+        "note": "Editorial review: 'All songs in Movement 2 are strong'"
+      }
+    },
+    "3": {
+      "title": "Unforced Rhythms (Living in Grace)",
+      "original_chapter_count": 6,
+      "target_chapter_count": 5,
+      "status": "pending",
+      "songs": {
+        "total": 6,
+        "note": "Chapter 13 flagged but requires author consultation"
+      }
+    }
+  },
+
+  "editorial_principles": [
+    "Song Preservation First - Songs are the book's core purpose",
+    "Redundancy Elimination - Remove repetitive content",
+    "Voice Preservation - Maintain author's authentic voice",
+    "Theological Integrity - Preserve doctrinal content",
+    "Reader Experience - Improve pacing and clarity"
+  ],
+
+  "song_removal_policy": {
+    "default": "keep",
+    "approval_required": true,
+    "approval_authority": "author",
+    "documentation_required": [
+      "Author's explicit approval with date",
+      "Reason for removal",
+      "Content preservation strategy",
+      "Alternative use suggestions"
+    ]
+  },
+
+  "file_naming_conventions": {
+    "revised_chapter": "REVISED-##_chapter-##-title.md",
+    "deleted_chapter": "DELETED-##_chapter-##-title.md",
+    "revision_summary": "MOVEMENT-#-REVISION-SUMMARY.md",
+    "location": "skylerthomas3.wiki/"
+  },
+
+  "quality_standards": {
+    "redundancy_threshold": "No concept repeated more than 2 times",
+    "quote_maximum": "2-3 theologian quotes per major section",
+    "voice_preservation": "Maintain vulnerable wayfarer tone",
+    "song_quality": "Professional standard maintained",
+    "pacing": "Clear forward progression"
+  },
+
+  "directories": {
+    "project_root": "/Users/paulmarshall/Documents/GitHub/skylerthomas3",
+    "wiki": "/Users/paulmarshall/Documents/GitHub/skylerthomas3.wiki",
+    "workflows": "/Users/paulmarshall/Documents/GitHub/skylerthomas3/workflows",
+    "archived": "/Users/paulmarshall/Documents/GitHub/skylerthomas3/archived_chapters"
+  },
+
+  "key_files": {
+    "editorial_review": "publish-editor.md",
+    "workflow_script": "workflows/publisher_edit_workflow.py",
+    "workflow_guide": "workflows/WORKFLOW3-GUIDE.md",
+    "workflow_state": "workflows/workflow_state.json",
+    "project_readme": "CLAUDE.md"
+  },
+
+  "workflow_commands": {
+    "slash_command": "/workflow3",
+    "direct_run": "python3 workflows/publisher_edit_workflow.py",
+    "make_executable": "chmod +x workflows/publisher_edit_workflow.py"
+  },
+
+  "revision_checklist": [
+    "Content redundancy eliminated",
+    "Author's voice preserved",
+    "Personal narrative balanced with theology",
+    "Clear progression maintained",
+    "All songs accounted for (kept or removed with approval)",
+    "QR codes and URLs functional",
+    "Revision summary completed",
+    "Metrics recorded",
+    "Files properly named",
+    "Documentation complete"
+  ],
+
+  "common_issues": {
+    "song_removal_request": "Consult author first, explore alternatives, document approval",
+    "repetitive_chapters": "Merge while preserving all songs",
+    "chapter_too_long": "Cut redundancy, not songs",
+    "song_narrative_mismatch": "Revise narrative to fit song, not vice versa"
+  },
+
+  "version": "1.0",
+  "created": "2025-10-16",
+  "last_updated": "2025-10-16"
+}
