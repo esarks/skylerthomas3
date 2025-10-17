@@ -121,13 +121,24 @@ This is the structured editorial revision process for the publisher's review edi
 1. Check current status and movement progress
 2. Review editorial feedback from `publish-editor.md`
 3. Make revisions in `skylerthomas3.wiki/`
-4. Track all changes (especially song decisions)
-5. Generate comprehensive revision summaries
+4. Update progress as each chapter is added
+5. Track all changes (especially song decisions)
+6. Generate comprehensive revision summaries
+
+**Updating Progress:**
+As you add chapters, update the workflow:
+```bash
+python3 workflows/update_workflow_progress.py --movement 2 --add-chapter 5
+python3 workflows/update_workflow_progress.py --status
+```
+See `workflows/UPDATING-WORKFLOW.md` for complete guide.
 
 **Key Files:**
 - `workflows/publisher_edit_workflow.py` - Main orchestration script
+- `workflows/update_workflow_progress.py` - Helper to update progress as chapters added
 - `workflows/WORKFLOW3-GUIDE.md` - Complete workflow documentation
 - `workflows/QUICK-REFERENCE.md` - Quick reference card
+- `workflows/UPDATING-WORKFLOW.md` - Guide for updating as you add chapters
 - `workflows/workflow_config.json` - Configuration settings
 - `workflows/workflow_state.json` - Current workflow state
 

@@ -214,7 +214,7 @@ def parse_markdown_to_pdf(md_file, output_pdf):
         parent=styles['Heading1'],
         fontSize=18,
         leading=22,
-        alignment=TA_CENTER,
+        alignment=TA_LEFT,
         spaceAfter=10,
         spaceBefore=10,
         fontName=FONT_BOLD
@@ -225,7 +225,7 @@ def parse_markdown_to_pdf(md_file, output_pdf):
         parent=styles['Heading2'],
         fontSize=14,
         leading=18,
-        alignment=TA_CENTER,
+        alignment=TA_LEFT,
         spaceAfter=8,
         spaceBefore=8,
         fontName=FONT_BOLD
@@ -236,6 +236,7 @@ def parse_markdown_to_pdf(md_file, output_pdf):
         parent=styles['Heading3'],
         fontSize=12,
         leading=16,
+        alignment=TA_LEFT,
         spaceAfter=6,
         spaceBefore=6,
         fontName=FONT_BOLD

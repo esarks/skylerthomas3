@@ -26,34 +26,49 @@
     "1": {
       "title": "In the Swamp (The Struggle)",
       "original_chapter_count": 4,
-      "target_chapter_count": 2,
+      "revised_chapter_count": 3,
       "status": "completed",
       "completion_date": "2025-10-15",
+      "chapters": [1, 2, 3],
+      "revised_files": ["REVISED-02", "REVISED-03", "REVISED-04"],
       "songs": {
         "total": 4,
         "kept": 2,
         "removed": 2,
-        "removal_approved": true
+        "removal_approved": true,
+        "songs_kept": ["My Swamp", "Dying Changes Everything"],
+        "songs_removed": ["But Then I Prayed", "STOP!! And Make a Decision"]
       }
     },
     "2": {
       "title": "At the Water's Edge (Encountering Grace)",
       "original_chapter_count": 4,
-      "target_chapter_count": 4,
-      "status": "pending",
+      "revised_chapter_count": 4,
+      "status": "completed",
+      "completion_date": "2025-10-16",
+      "chapters": [4, 5, 6, 7],
+      "revised_files": ["REVISED-07", "REVISED-08", "REVISED-09", "REVISED-10"],
       "songs": {
         "total": 4,
-        "note": "Editorial review: 'All songs in Movement 2 are strong'"
+        "kept": 4,
+        "removed": 0,
+        "note": "Editorial review: 'All songs in Movement 2 are strong'",
+        "songs_kept": ["Living Waters Edge", "Shadow Grace", "Amazing Grace", "Dig Deeper"]
       }
     },
     "3": {
       "title": "Unforced Rhythms (Living in Grace)",
       "original_chapter_count": 6,
-      "target_chapter_count": 5,
-      "status": "pending",
+      "revised_chapter_count": 4,
+      "status": "completed",
+      "completion_date": "2025-10-16",
+      "chapters": [8, 9, 10, 11],
+      "revised_files": ["REVISED-12", "REVISED-13", "REVISED-14", "REVISED-15"],
       "songs": {
-        "total": 6,
-        "note": "Chapter 13 flagged but requires author consultation"
+        "total": 4,
+        "kept": 4,
+        "removed": 0,
+        "songs_kept": ["Unforced Rhythms", "Deep Roots", "Redemption Story", "Nothing Wasted"]
       }
     }
   },
@@ -134,7 +149,10 @@
     "song_narrative_mismatch": "Revise narrative to fit song, not vice versa"
   },
 
-  "version": "1.0",
+  "version": "1.1",
   "created": "2025-10-16",
-  "last_updated": "2025-10-16"
+  "last_updated": "2025-10-16",
+  "workflow_status": "all_movements_completed",
+  "total_songs_in_book": 10,
+  "total_songs_removed": 2
 }

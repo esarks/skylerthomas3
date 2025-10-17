@@ -99,11 +99,30 @@ def clean_manuscript_for_epub(input_file, output_file):
             i += 1
             continue
 
+        # Skip H1 headings for Movement intros to avoid creating separate EPUB sections
+        # This prevents blank pages between Movement intros and their first chapter
+        # The H3 "### MOVEMENT X:" heading will remain for visual structure
+        if line.startswith('# Out of the Swamp: How I Found Truth (Movement'):
+            i += 1
+            continue
+
         cleaned_lines.append(line)
         i += 1
 
+    # Collapse excessive blank lines (more than 2 consecutive)
+    final_lines = []
+    blank_count = 0
+    for line in cleaned_lines:
+        if line.strip() == '':
+            blank_count += 1
+            if blank_count <= 2:  # Keep max 2 consecutive blank lines
+                final_lines.append(line)
+        else:
+            blank_count = 0
+            final_lines.append(line)
+
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.writelines(cleaned_lines)
+        f.writelines(final_lines)
 
 def create_epub():
     """Convert markdown to EPUB using pandoc"""

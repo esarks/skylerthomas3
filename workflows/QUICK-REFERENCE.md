@@ -12,6 +12,20 @@
 python3 workflows/publisher_edit_workflow.py
 ```
 
+## Update Progress (As You Add Chapters)
+
+### After adding a revised chapter
+```bash
+python3 workflows/update_workflow_progress.py --movement 2 --add-chapter 5
+```
+
+### Check your progress
+```bash
+python3 workflows/update_workflow_progress.py --status
+```
+
+**See:** `workflows/UPDATING-WORKFLOW.md` for complete guide
+
 ---
 
 ## Core Principle

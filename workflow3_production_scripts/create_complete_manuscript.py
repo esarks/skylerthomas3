@@ -6,8 +6,8 @@ This script combines all revised chapters for the NEW publisher-ready version.
 
 Structure:
 - Movement 1: 3 chapters with 3 songs (revised from original 4)
-- Movement 2: 4 chapters (to be revised)
-- Movement 3: 6 chapters (to be revised)
+- Movement 2: 4 chapters with 4 songs (revised)
+- Movement 3: 5 chapters with 5 songs (revised from original 6 - removed Devil's Run)
 
 Source files: /skylerthomas3.wiki/REVISED-*.md
 Output: /skylerthomas3/KDP/COMPLETE-MANUSCRIPT.md
@@ -36,12 +36,12 @@ def combine_manuscript():
 
     # Define the order of files for REVISED publisher version
     file_order = [
-        # Front Matter (to be created)
-        ('front', '00_title-page.md', False),
-        ('front', '00_copyright-page.md', False),
-        ('front', '00_dedication.md', False),
+        # Front Matter
+        ('wiki', 'REVISED-00_title-page.md', True),
+        ('wiki', 'REVISED-00_copyright-page.md', True),
+        ('wiki', 'REVISED-00_dedication.md', True),
         ('front', '00_table-of-contents.md', False),
-        ('front', '00_introduction.md', False),
+        ('wiki', 'REVISED-00_introduction-PUBLISHER.md', True),  # REVISED - condensed by 42%
 
         # MOVEMENT 1: IN THE SWAMP (3 chapters with 3 songs - REVISED)
         ('wiki', 'REVISED-01_movement-1-intro.md', True),
@@ -49,24 +49,24 @@ def combine_manuscript():
         ('wiki', 'REVISED-03_chapter-02-but-then-i-prayed.md', True),  # Song: "But Then I Prayed"
         ('wiki', 'REVISED-04_chapter-03-dying-changes.md', True),  # Song: "Dying Changes Everything"
 
-        # MOVEMENT 2: AT THE WATER'S EDGE (4 chapters - TO BE REVISED)
-        ('front', 'REVISED-06_movement-2-intro.md', False),
-        ('front', 'REVISED-07_chapter-03-living-waters-edge.md', False),
-        ('front', 'REVISED-08_chapter-04-shadow-grace.md', False),
-        ('front', 'REVISED-09_chapter-05-amazing-grace.md', False),
-        ('front', 'REVISED-10_chapter-06-dig-deeper.md', False),
+        # MOVEMENT 2: AT THE WATER'S EDGE (4 chapters - REVISED)
+        ('wiki', 'REVISED-06_movement-2-intro.md', True),
+        ('wiki', 'REVISED-07_chapter-04-living-waters-edge.md', True),  # Song: "Living Waters Edge"
+        ('wiki', 'REVISED-08_chapter-05-shadow-grace.md', True),  # Song: "Shadow of Your Grace"
+        ('wiki', 'REVISED-09_chapter-06-amazing-grace.md', True),  # Song: "Amazing Grace"
+        ('wiki', 'REVISED-10_chapter-07-dig-deeper.md', True),  # Song: "Dig a Little Deeper"
 
-        # MOVEMENT 3: UNFORCED RHYTHMS (6 chapters - TO BE REVISED)
-        ('front', 'REVISED-11_movement-3-intro.md', False),
-        ('front', 'REVISED-12_chapter-07-unforced-rhythms.md', False),
-        ('front', 'REVISED-13_chapter-08-deep-roots.md', False),
-        ('front', 'REVISED-14_chapter-09-redemptions-story.md', False),
-        ('front', 'REVISED-15_chapter-10-nothing-wasted.md', False),
-        ('front', 'REVISED-16_chapter-11-this-moment.md', False),
+        # MOVEMENT 3: UNFORCED RHYTHMS (5 chapters - REVISED)
+        ('wiki', 'REVISED-11_movement-3-intro.md', True),
+        ('wiki', 'REVISED-12_chapter-08-unforced-rhythms.md', True),  # Song: "Mindful Bliss of Grace"
+        ('wiki', 'REVISED-13_chapter-09-deep-roots.md', True),  # Song: "I Will Trust You Lord"
+        ('wiki', 'REVISED-14_chapter-10-redemption-story.md', True),  # Song: "Redemption Story"
+        ('wiki', 'REVISED-15_chapter-11-nothing-wasted.md', True),  # Song: "Nothing is Wasted"
+        ('wiki', 'REVISED-16_chapter-12-this-moment.md', True),  # Song: "This Moment is Enough"
 
-        # Back Matter (to be created)
-        ('front', '99_epilogue.md', False),
-        ('front', '99_about-author.md', False),
+        # Back Matter
+        ('wiki', 'REVISED-99_epilogue.md', True),
+        ('wiki', 'REVISED-99_about-author.md', True),
     ]
 
     combined_content = []
