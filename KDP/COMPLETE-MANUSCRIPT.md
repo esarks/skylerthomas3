@@ -46,7 +46,7 @@ skyler@skylerthomas.com
 
 ---
 
-*Publisher Edition: v20251023a*
+*Publisher Edition: v20251027a*
 
 
 
@@ -787,6 +787,24 @@ It's a beginning.
 
 ---
 
+## A Note Before We Continue
+
+Let me be clear about something from the start: this book is about my journey through **THE SWAMP**.
+
+Capital letters. The big one. The decade-long crisis that tried to take me down for good. The moral failure. The community rejection. The soul-exhaustion so deep I thought I'd never find my way out.
+
+That's what you've been reading about and where this book continues.
+
+But I'm also not going to pretend that once you work through this journey, you'll never struggle again. Life will bring other swamps—maybe monthly, weekly, sometimes daily. Moments when you're soul-tired again, when old patterns resurface, when you lose your footing.
+
+But those aren't **THE SWAMP**. Those are the normal challenges of being human and learning to walk with God.  And one thing we are promised, they will come, because... we... are... human.
+
+Truth is, the things I learned about **THE SWAMP** are also just as relevant for our little swamps we face simply because we are human.
+
+Maybe you think this book isn't for you because you're not in **THE SWAMP**.  I think that whereever you are in your journey, there are things to be learned about how to handle whatever swamps we may face, **BIG** or little.
+
+Let's keep walking.
+
 
 \pagebreak
 
@@ -797,7 +815,6 @@ It's a beginning.
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 2: But Then I Prayed
-
 
 **Listen at:** http://go.skylerthomas.com/swI2s8
 
@@ -1096,7 +1113,6 @@ And somehow—impossibly—that changes everything.
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 3: Dying Changes Everything
-
 
 **Listen at:** http://go.skylerthomas.com/7U8VKi
 
@@ -1992,7 +2008,6 @@ You're at the water's edge. And you're wading in. And it's the beginning of ever
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 5: In the Shadow of Your Grace
 
-
 **Listen at:** http://go.skylerthomas.com/wqg9eX
 
 ![Scan to listen: In the Shadow of Your Grace](qr-ch06-shadow-grace.png)
@@ -2417,7 +2432,6 @@ In the shadow of grace.
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 6: Amazing Grace I Did Receive
 
-
 **Listen at:** http://go.skylerthomas.com/UCBWc5
 
 ![Scan to listen: Amazing Grace](qr-ch07-amazing-grace.png)
@@ -2816,7 +2830,6 @@ You're being made new. And it's only just beginning.
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 7: Dig a Little Deeper
-
 
 **Listen at:** http://go.skylerthomas.com/i0kY88
 
@@ -3532,7 +3545,6 @@ If you can, you're ready for Movement 3.
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 8: Unforced Rhythms of Grace
 
-
 **Listen at:** http://go.skylerthomas.com/jYgQNf
 
 ![Scan to listen: Mindful Bliss of Grace](qr-ch09-mindful-bliss.png)
@@ -4030,7 +4042,6 @@ Into mindful bliss.
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 9: Deep Roots, Strong Growth
 
-
 **Listen at:** http://go.skylerthomas.com/DxCmnx
 
 ![Scan to listen: I Will Trust You Lord](qr-ch10-trust-you-lord.png)
@@ -4512,7 +4523,6 @@ Deeply rooted in the love of God.
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 10: Redemption's Story
-
 
 **Listen at:** http://go.skylerthomas.com/MN36D4
 
@@ -5016,7 +5026,6 @@ Forever redeemed. Forever His own.
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 11: Nothing is Wasted
 
-
 **Listen at:** http://go.skylerthomas.com/smBjeW
 
 ![Scan to listen: Nothing is Wasted](qr-ch12-nothing-wasted.png)
@@ -5421,7 +5430,6 @@ Nothing is wasted.
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 12: This Moment is Enough
-
 
 **Listen at:** http://go.skylerthomas.com/jIthAe
 
@@ -5888,7 +5896,43 @@ On those days, remember: you're not starting over. You're continuing forward. Th
 
 There will be days when grace feels distant. When you're exhausted from trying to live up to standards you were never meant to carry.
 
-On those days, come back to the water's edge. Let grace wash over you again. It's not a one-time event—it's a daily returning to the truth of who you are in Christ.
+But let me tell you something I've learned from this side of the journey—something I couldn't see when I was in the depths of my crisis:
+
+There's a difference between **THE SWAMP** and swamps.
+
+**THE SWAMP**—capital letters, the big one—that's what this book is about. That was the swamp that tried to take me down and out for good, for the rest of my life. That was the decade-long journey you've just read about. The moral failure. The community rejection. The soul-exhaustion so deep I thought I'd never find my way out. That was **THE SWAMP**.
+
+But now that I'm in a different place, I realize something crucial: as long as we are living and breathing in this life, we will always be called back to swamps.
+
+Not THE **SWAMP**. But swamps.
+
+Lowercase swamps. Smaller swamps. Swamps that might show up monthly, weekly, or during some seasons of life, even daily. Times when we're soul-tired again. When we slip into old patterns. When we feel disconnected from God and ourselves. When we're tempted to put the mask back on and perform.
+
+**And here's what you need to hear: You don't have to lose hope.**
+
+Because the very same things that took me years—even a decade—to practice and experience can be yours in shorter cycles.
+
+The truth I learned about prayer? You can apply it today when you face a swamp this week.
+
+The grace I discovered at the water's edge? You can return there tomorrow when shame resurfaces.
+
+The unforced rhythms that took me years to learn? You can practice them now, today, this moment.
+
+**The Truth still stands.** God is still in control of our BIG SWAMPS and our little swamps. He's here for you—in the decade-long crisis and in the Tuesday afternoon discouragement.
+
+**And we still don't have to do it alone.**
+
+So when you feel like you're back in the swamp—and you will feel that way sometimes—pause and ask yourself: Is this **THE SWAMP**, or is this a swamp?
+
+If it's **THE SWAMP**, a crisis-level breakdown that requires intensive healing and radical transformation, then this book is your companion. Read it again. Work through the reflection questions. Reach out for help. Apply what took me years to learn. Don't walk alone.
+
+But if it's a lowercase swamp—one of those recurring struggles, those familiar patterns, those moments when you lose your footing—then you already have what you need. You know the way to the water's edge. You know how to pray honestly. You know where to find grace. You know the rhythms that bring you back to center.
+
+You don't have to spend a decade in every swamp you encounter.
+
+The same God who met me in **THE SWAMP** meets you in the swamps. The same grace that pulled me through the decade-long darkness is available for your daily struggles. The same truth that transformed my life works in shorter cycles, in smaller moments, in the everyday challenges of following Jesus.
+
+On those days when you're feeling overcome, come back to the water's edge. Let grace wash over you again. It's not a one-time event—it's a daily returning to the truth of who you are in Christ.
 
 There will be days when the rhythms feel forced. When life speeds up and you lose your footing in the chaos.
 
