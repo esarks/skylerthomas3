@@ -1,0 +1,52 @@
+DUPLICATE MENU ITEMS TO DELETE
+================================================================================
+
+You have 147 total menu items. 71 of them are duplicates.
+
+KEEP these 76 unique items (Item IDs):
+730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745,
+746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 761, 762,
+763, 768, 783, 787, 802, 809, 913, 939, 948, 1033, 1123, 1306, 1324, 1344, 1380,
+1386, 1421, 1431, 1461, 1487, 1499, 1522, 1670, 2164, 2165, 2166, 2192, 2195,
+2200, 2282, 2283, 2289, 2297, 2301, 2322, 2324, 2325, 2326, 2327, 4064, 4065,
+6052, 6060, 6079
+
+DELETE these 71 duplicate items (Item IDs):
+1523, 2303, 6018, 6019, 6020, 6021, 6022, 6023, 6024, 6025, 6026, 6027, 6028,
+6029, 6030, 6031, 6032, 6033, 6034, 6035, 6036, 6037, 6038, 6039, 6040, 6041,
+6042, 6043, 6044, 6045, 6046, 6047, 6048, 6049, 6050, 6051, 6053, 6054, 6055,
+6056, 6057, 6058, 6059, 6061, 6062, 6063, 6064, 6065, 6066, 6067, 6068, 6069,
+6072, 6073, 6074, 6075, 6076, 6077, 6078, 6080, 6081, 6082, 6083, 6084, 6085,
+6086, 6087, 6088, 6089, 6090, 6091
+
+================================================================================
+
+EASIEST WAY TO DELETE DUPLICATES IN WORDPRESS:
+
+Option 1: Delete in Menu Editor
+1. Go to Appearance > Menus
+2. Click "Screen Options" at the top right
+3. Check the box for "CSS Classes" - this will show item IDs
+4. Scroll through the menu and look for the items with IDs starting with 60xx
+5. Most duplicates are 6018-6091 (the 60xx range)
+6. Remove those items
+7. Also remove items: 1523, 2303
+8. Save Menu
+
+Option 2: Use Browser Console (FASTEST)
+1. Go to Appearance > Menus
+2. Open browser console (F12 or right-click > Inspect)
+3. Paste this JavaScript and press Enter:
+
+var duplicateIds = [1523, 2303, 6018, 6019, 6020, 6021, 6022, 6023, 6024, 6025, 6026, 6027, 6028, 6029, 6030, 6031, 6032, 6033, 6034, 6035, 6036, 6037, 6038, 6039, 6040, 6041, 6042, 6043, 6044, 6045, 6046, 6047, 6048, 6049, 6050, 6051, 6053, 6054, 6055, 6056, 6057, 6058, 6059, 6061, 6062, 6063, 6064, 6065, 6066, 6067, 6068, 6069, 6072, 6073, 6074, 6075, 6076, 6077, 6078, 6080, 6081, 6082, 6083, 6084, 6085, 6086, 6087, 6088, 6089, 6090, 6091];
+duplicateIds.forEach(function(id) {
+    var checkbox = document.getElementById('menu-item-' + id);
+    if (checkbox) checkbox.checked = true;
+});
+
+4. This will select all duplicate items
+5. Scroll to bottom of page
+6. Click "Remove Selected Items"
+7. Click "Save Menu"
+
+DONE! Your menu will have 76 unique items with no duplicates.

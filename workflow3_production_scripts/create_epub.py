@@ -99,12 +99,8 @@ def clean_manuscript_for_epub(input_file, output_file):
             i += 1
             continue
 
-        # Skip H1 headings for Movement intros to avoid creating separate EPUB sections
-        # This prevents blank pages between Movement intros and their first chapter
-        # The H3 "### MOVEMENT X:" heading will remain for visual structure
-        if line.startswith('# Out of the Swamp: How I Found Truth (Movement'):
-            i += 1
-            continue
+        # Keep Movement intro H1 headings so they appear as chapters in EPUB
+        # (No special handling needed - blank line collapsing handles spacing)
 
         cleaned_lines.append(line)
         i += 1

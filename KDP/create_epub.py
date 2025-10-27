@@ -91,10 +91,7 @@ def clean_manuscript_for_epub(input_file, output_file):
             i += 1
             continue
 
-        # Skip "Listen at:" lines (redundant in EPUB - song title is already a clickable link)
-        if line.startswith('**Listen at:**') or line.startswith('Listen at:'):
-            i += 1
-            continue
+        # KEEP "Listen at:" lines - they provide shortened URLs for EPUB readers
 
         cleaned_lines.append(line)
         i += 1
@@ -105,9 +102,9 @@ def clean_manuscript_for_epub(input_file, output_file):
 def create_epub():
     """Convert markdown to EPUB using pandoc"""
 
-    input_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/COMPLETE-MANUSCRIPT.md"
-    temp_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/TEMP-MANUSCRIPT-CLEAN.md"
-    output_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/OUT-OF-THE-SWAMP.epub"
+    input_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas3/KDP/COMPLETE-MANUSCRIPT.md"
+    temp_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas3/KDP/TEMP-MANUSCRIPT-CLEAN.md"
+    output_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas3/KDP/OUT-OF-THE-SWAMP-PUBLISHER.epub"
 
     if not os.path.exists(input_file):
         print(f"❌ Error: Input file not found: {input_file}")
@@ -124,7 +121,7 @@ def create_epub():
     print("   • Removing metadata blocks")
     print("   • Removing manual Table of Contents (EPUB auto-generates it)")
     print("   • Removing QR code images (links are clickable in EPUB)")
-    print("   • Removing 'Listen at:' lines (song titles are already clickable)")
+    print("   • Keeping 'Listen at:' shortened URLs for readers")
     print("   • Removing LaTeX commands")
     clean_manuscript_for_epub(input_file, temp_file)
 

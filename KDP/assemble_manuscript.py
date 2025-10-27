@@ -10,7 +10,7 @@ from pathlib import Path
 # Paths
 WIKI_DIR = Path(__file__).parent.parent.parent / "skylerthomas3.wiki"
 OUTPUT_DIR = Path(__file__).parent
-OUTPUT_FILE = OUTPUT_DIR / "complete_manuscript.md"
+OUTPUT_FILE = OUTPUT_DIR / "COMPLETE-MANUSCRIPT.md"
 
 # File order for manuscript assembly
 MANUSCRIPT_FILES = [
@@ -41,9 +41,7 @@ MANUSCRIPT_FILES = [
     "REVISED-13_chapter-09-deep-roots.md",
     "REVISED-14_chapter-10-redemption-story.md",
     "REVISED-15_chapter-11-nothing-wasted.md",
-
-    # More chapters as you add them...
-    # Add new REVISED files here as you complete them
+    "REVISED-16_chapter-12-this-moment.md",
 
     # Post-Book Content
     "REVISED-99_epilogue.md",
@@ -52,31 +50,65 @@ MANUSCRIPT_FILES = [
 ]
 
 def clean_metadata(content):
-    """Remove WordPress metadata from content"""
+    """Remove WordPress metadata from content - only YAML blocks, keep decorative dividers"""
     lines = content.split('\n')
     cleaned_lines = []
-    skip_metadata = False
+    in_yaml_block = False
+    i = 0
 
-    for line in lines:
-        # Skip YAML metadata blocks
-        if line.strip() == '---':
-            if not skip_metadata:
-                skip_metadata = True
-                continue
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.strip()
+
+        # Detect YAML block start/end
+        if stripped == '---':
+            if not in_yaml_block:
+                # Check if this is actually a YAML block by looking ahead
+                is_yaml_block = False
+                for j in range(i + 1, min(i + 5, len(lines))):
+                    next_line = lines[j].strip()
+                    if next_line and (next_line.startswith('wp_post_id:') or next_line.startswith('last_updated:')):
+                        is_yaml_block = True
+                        break
+                    elif next_line and next_line != '---':
+                        # Found non-metadata content, not a YAML block
+                        break
+
+                if is_yaml_block:
+                    # Starting a YAML block - skip this line
+                    in_yaml_block = True
+                    i += 1
+                    continue
+                else:
+                    # Just a decorative divider - KEEP IT
+                    cleaned_lines.append(line)
+                    i += 1
+                    continue
             else:
-                skip_metadata = False
+                # Ending a YAML block - skip this line
+                in_yaml_block = False
+                i += 1
                 continue
 
-        if skip_metadata:
+        # Skip lines inside YAML blocks
+        if in_yaml_block:
+            i += 1
             continue
 
-        # Skip WordPress metadata
-        if line.startswith('wp_post_id:') or line.startswith('last_updated:'):
+        # Skip standalone WordPress metadata lines (outside YAML blocks)
+        if stripped.startswith('wp_post_id:'):
+            i += 1
             continue
-        if line.startswith('*Last updated:'):
+        if stripped.startswith('last_updated:'):
+            i += 1
+            continue
+        if stripped.startswith('*Last updated:') and stripped.endswith('*'):
+            i += 1
             continue
 
+        # Keep this line
         cleaned_lines.append(line)
+        i += 1
 
     return '\n'.join(cleaned_lines)
 
@@ -113,7 +145,7 @@ def assemble_manuscript():
 
             # Add page break before each section (except first)
             if files_added > 0:
-                manuscript_content.append("\n\n---\n\\pagebreak\n\n")
+                manuscript_content.append("\n\n\\pagebreak\n\n")
 
             manuscript_content.append(content)
             files_added += 1

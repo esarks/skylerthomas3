@@ -1,0 +1,23 @@
+#!/bin/bash
+# Script to help update chapter lyrics from WordPress export
+
+echo "Lyrics Update Helper Script"
+echo "============================"
+echo ""
+echo "This script will help you update chapter lyrics from the WordPress export."
+echo ""
+echo "Chapters ready for update:"
+echo "1. REVISED-02_chapter-01-my-swamp.md - Song: I Will Rise"
+echo "2. REVISED-03_chapter-02-but-then-i-prayed.md - Song: But Then I Prayed"
+echo "3. REVISED-04_chapter-03-dying-changes.md - Song: Dying Changes Everything"
+echo "4. REVISED-08_chapter-05-shadow-grace.md - Song: In the Shadow of Your Grace"
+echo "5. REVISED-09_chapter-06-amazing-grace.md - Song: Amazing Grace I did Receive"
+echo "6. REVISED-12_chapter-08-unforced-rhythms.md - Song: Mindful Bliss of Grace"
+echo "7. REVISED-13_chapter-09-deep-roots.md - Song: I Will Trust You Lord"
+echo ""
+echo "Extracted lyrics data is in: /tmp/extracted_lyrics.json"
+echo ""
+echo "To update, you can:"
+echo "1. Manually copy lyrics from /tmp/extracted_lyrics.json to each chapter"
+echo "2. Use a text editor to find the ## Lyrics: section and replace"
+echo "3. Run a custom script to automate the updates"

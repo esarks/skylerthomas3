@@ -76,7 +76,7 @@ def is_metadata_line(line):
         return True
     return False
 
-def download_image(url, cache_dir='/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/image_cache'):
+def download_image(url, cache_dir='/Users/paulmarshall/Documents/GitHub/skylerthomas3/KDP/image_cache'):
     """Download an image from a URL and cache it locally"""
     # Create cache directory if it doesn't exist
     os.makedirs(cache_dir, exist_ok=True)
@@ -272,6 +272,17 @@ def parse_markdown_to_pdf(md_file, output_pdf):
     in_lyrics = False
     in_metadata = False
     skip_metadata_until_next_section = False
+
+    def last_is_pagebreak():
+        """Check if we recently added a PageBreak (ignoring Spacers)"""
+        # Look back through last few items, ignoring Spacers
+        for i in range(len(story) - 1, max(-1, len(story) - 5), -1):
+            if isinstance(story[i], PageBreak):
+                return True
+            elif not isinstance(story[i], Spacer):
+                # Found a non-Spacer, non-PageBreak item, so no recent pagebreak
+                return False
+        return False
     current_chapter = None
 
     i = 0
@@ -320,8 +331,8 @@ def parse_markdown_to_pdf(md_file, output_pdf):
             in_lyrics = False
             story.append(Spacer(1, 0.1*inches))
 
-        # Handle LaTeX \newpage markers
-        if line.strip() == '\\newpage':
+        # Handle LaTeX \newpage and \pagebreak markers
+        if line.strip() == '\\newpage' or line.strip() == '\\pagebreak':
             story.append(PageBreak())
             i += 1
             continue
@@ -366,7 +377,7 @@ def parse_markdown_to_pdf(md_file, output_pdf):
                 img_path = download_image(img_src)
             else:
                 # Local file
-                img_path = os.path.join('/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP', img_src)
+                img_path = os.path.join('/Users/paulmarshall/Documents/GitHub/skylerthomas3/KDP', img_src)
                 if not os.path.exists(img_path):
                     print(f"  ⚠️  Image not found: {img_src}")
                     img_path = None
@@ -422,10 +433,10 @@ def parse_markdown_to_pdf(md_file, output_pdf):
             # Insert page break before major sections and chapters to ensure they start on new pages
             sections_needing_page_break = ['Dedication', 'Table of Contents', 'Introduction',
                                           'Epilogue', 'About the Author', 'Acknowledgments',
-                                          'The Road Ahead', 'Chapter']
+                                          'The Road Ahead', 'Chapter', 'Movement']
             if any(section in text for section in sections_needing_page_break):
-                # Only add page break if this isn't the very first item
-                if len(story) > 0:
+                # Only add page break if this isn't the very first item AND we didn't just add one
+                if len(story) > 0 and not last_is_pagebreak():
                     story.append(PageBreak())
             para = Paragraph(text, h1_style)
             story.append(para)
@@ -436,7 +447,7 @@ def parse_markdown_to_pdf(md_file, output_pdf):
             text = clean_text(line[3:])
             # Insert page break before "A Final Word"
             if 'A Final Word' in text:
-                if len(story) > 0:
+                if len(story) > 0 and not last_is_pagebreak():
                     story.append(PageBreak())
             para = Paragraph(text, h2_style)
             story.append(para)
@@ -536,8 +547,8 @@ def parse_markdown_to_pdf(md_file, output_pdf):
     print(f"  ✓ Ready for KDP upload")
 
 if __name__ == "__main__":
-    input_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/COMPLETE-MANUSCRIPT.md"
-    output_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/OUT-OF-THE-SWAMP-KDP-READY.pdf"
+    input_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas3/KDP/COMPLETE-MANUSCRIPT.md"
+    output_file = "/Users/paulmarshall/Documents/GitHub/skylerthomas3/KDP/OUT-OF-THE-SWAMP-PUBLISHER.pdf"
 
     if not os.path.exists(input_file):
         print(f"❌ Error: Input file not found: {input_file}")
