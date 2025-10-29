@@ -48,7 +48,7 @@ skyler@skylerthomas.com
 
 ---
 
-*Publisher Edition: v20251027a*
+*Publisher Edition: v20251029a*
 
 
 
@@ -89,12 +89,12 @@ And most important, to my loving wife and children who didn't leave me when thin
 
 ---
 wp_post_id: 4061
-last_updated: 2025-10-27 17:22:30
+last_updated: 2025-10-29 01:32:03
 ---
 
 # Out of the Swamp: How I Found Truth (Introduction)
 
-*Last updated: 2025-10-27 17:22:30*
+*Last updated: 2025-10-29 01:32:03*
 
 ## Introduction
 
@@ -384,12 +384,12 @@ Let's walk together.
 
 ---
 wp_post_id: 2146
-last_updated: 2025-10-27 17:22:31
+last_updated: 2025-10-29 01:32:05
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 1)
 
-*Last updated: 2025-10-27 17:22:31*
+*Last updated: 2025-10-29 01:32:05*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 
@@ -497,12 +497,12 @@ Before you begin, take a moment. **Where is your swamp?** The actual place where
 
 ---
 wp_post_id: 2148
-last_updated: 2025-10-27 17:22:32
+last_updated: 2025-10-29 01:32:06
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 1)
 
-*Last updated: 2025-10-27 17:22:32*
+*Last updated: 2025-10-29 01:32:06*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 1: My Swamp
@@ -833,12 +833,12 @@ Let's keep walking.
 
 ---
 wp_post_id: 2150
-last_updated: 2025-10-27 17:22:33
+last_updated: 2025-10-29 01:32:07
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 2)
 
-*Last updated: 2025-10-27 17:22:33*
+*Last updated: 2025-10-29 01:32:07*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 2: But Then I Prayed
@@ -1136,12 +1136,12 @@ And somehow—impossibly—that changes everything.
 
 ---
 wp_post_id: 2190
-last_updated: 2025-10-27 17:22:33
+last_updated: 2025-10-29 01:32:07
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 3)
 
-*Last updated: 2025-10-27 17:22:33*
+*Last updated: 2025-10-29 01:32:07*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 3: Dying Changes Everything
@@ -1465,12 +1465,12 @@ But the tomb is not the end.
 
 ---
 wp_post_id: 2193
-last_updated: 2025-10-27 17:22:34
+last_updated: 2025-10-29 01:32:08
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 2)
 
-*Last updated: 2025-10-27 17:22:34*
+*Last updated: 2025-10-29 01:32:08*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 
@@ -1666,12 +1666,12 @@ The water is here. The invitation is extended. Grace is waiting.
 
 ---
 wp_post_id: 2198
-last_updated: 2025-10-27 17:22:34
+last_updated: 2025-10-29 01:32:08
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 4)
 
-*Last updated: 2025-10-27 17:22:34*
+*Last updated: 2025-10-29 01:32:08*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 4: Living Waters Edge
@@ -2045,12 +2045,12 @@ You're at the water's edge. And you're wading in. And it's the beginning of ever
 
 ---
 wp_post_id: 2279
-last_updated: 2025-10-27 17:22:35
+last_updated: 2025-10-29 01:32:09
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 5)
 
-*Last updated: 2025-10-27 17:22:35*
+*Last updated: 2025-10-29 01:32:09*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 5: In the Shadow of Your Grace
@@ -2474,12 +2474,12 @@ In the shadow of grace.
 
 ---
 wp_post_id: 2281
-last_updated: 2025-10-27 17:22:35
+last_updated: 2025-10-29 01:32:09
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 6)
 
-*Last updated: 2025-10-27 17:22:35*
+*Last updated: 2025-10-29 01:32:09*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 6: Amazing Grace I Did Receive
@@ -2878,12 +2878,12 @@ You're being made new. And it's only just beginning.
 
 ---
 wp_post_id: 2296
-last_updated: 2025-10-27 17:22:36
+last_updated: 2025-10-29 01:32:10
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 7)
 
-*Last updated: 2025-10-27 17:22:36*
+*Last updated: 2025-10-29 01:32:10*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 7: Dig a Little Deeper
@@ -3437,12 +3437,12 @@ And grace, you're discovering, has no bottom.
 
 ---
 wp_post_id: 2300
-last_updated: 2025-10-27 17:22:37
+last_updated: 2025-10-29 01:32:10
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 3)
 
-*Last updated: 2025-10-27 17:22:37*
+*Last updated: 2025-10-29 01:32:10*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 
@@ -3602,12 +3602,12 @@ If you can, you're ready for Movement 3.
 
 ---
 wp_post_id: 2302
-last_updated: 2025-10-27 17:22:37
+last_updated: 2025-10-29 01:32:11
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 8)
 
-*Last updated: 2025-10-27 17:22:37*
+*Last updated: 2025-10-29 01:32:11*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 8: Unforced Rhythms of Grace
@@ -4104,12 +4104,12 @@ Into mindful bliss.
 
 ---
 wp_post_id: 2317
-last_updated: 2025-10-27 17:22:38
+last_updated: 2025-10-29 01:32:11
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 9)
 
-*Last updated: 2025-10-27 17:22:38*
+*Last updated: 2025-10-29 01:32:11*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 9: Deep Roots, Strong Growth
@@ -4591,12 +4591,12 @@ Deeply rooted in the love of God.
 
 ---
 wp_post_id: 2318
-last_updated: 2025-10-27 17:22:38
+last_updated: 2025-10-29 01:32:12
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 10)
 
-*Last updated: 2025-10-27 17:22:38*
+*Last updated: 2025-10-29 01:32:12*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 10: Redemption's Story
@@ -5098,12 +5098,12 @@ Forever redeemed. Forever His own.
 
 ---
 wp_post_id: 2319
-last_updated: 2025-10-27 17:22:39
+last_updated: 2025-10-29 01:32:13
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 11)
 
-*Last updated: 2025-10-27 17:22:39*
+*Last updated: 2025-10-29 01:32:13*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 11: Nothing is Wasted
@@ -5508,12 +5508,12 @@ Nothing is wasted.
 
 ---
 wp_post_id: 2321
-last_updated: 2025-10-27 17:22:40
+last_updated: 2025-10-29 01:32:13
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 12)
 
-*Last updated: 2025-10-27 17:22:40*
+*Last updated: 2025-10-29 01:32:13*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 12: This Moment is Enough
@@ -5963,12 +5963,12 @@ It's everything.
 
 ---
 wp_post_id: 4060
-last_updated: 2025-10-27 17:22:40
+last_updated: 2025-10-29 01:32:14
 ---
 
 # Out of the Swamp: How I found Truth (Epilogue: The Road Ahead)
 
-*Last updated: 2025-10-27 17:22:40*
+*Last updated: 2025-10-29 01:32:14*
 
 You've journeyed from swamp to water's edge to unforced rhythms. You've named your struggle, cried out in prayer, let something die, and discovered that dying to self changes everything.
 
