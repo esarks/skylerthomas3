@@ -66,6 +66,7 @@ def combine_manuscript():
 
         # Back Matter
         ('wiki', 'REVISED-99_epilogue.md', True),
+        ('wiki', 'REVISED-99_acknowledgments.md', True),
         ('wiki', 'REVISED-99_about-author.md', True),
     ]
 
