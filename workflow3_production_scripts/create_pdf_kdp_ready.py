@@ -331,8 +331,8 @@ def parse_markdown_to_pdf(md_file, output_pdf):
             in_lyrics = False
             story.append(Spacer(1, 0.1*inches))
 
-        # Handle LaTeX \newpage markers
-        if line.strip() == '\\newpage':
+        # Handle LaTeX \newpage and \pagebreak markers
+        if line.strip() == '\\newpage' or line.strip() == '\\pagebreak':
             story.append(PageBreak())
             i += 1
             continue
