@@ -85,7 +85,12 @@ def combine_manuscript():
             print(f"✓ Adding: {filename}")
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
-                combined_content.append(content)
+
+            # Add page break before each section (except first)
+            if found_count > 0:
+                combined_content.append("\n\n\\pagebreak\n\n")
+
+            combined_content.append(content)
             found_count += 1
         else:
             if exists:
@@ -96,7 +101,7 @@ def combine_manuscript():
             missing_files.append(filename)
 
     # Join all content
-    final_content = '\n\n'.join(combined_content)
+    final_content = '\n'.join(combined_content)
 
     # Write to output
     output_file = os.path.join(kdp_dir, 'COMPLETE-MANUSCRIPT.md')
