@@ -531,6 +531,11 @@ def parse_markdown_to_pdf(md_file, output_pdf):
             i += 1
             continue
 
+        # Skip any remaining metadata lines that weren't caught by block processing
+        if is_metadata_line(line):
+            i += 1
+            continue
+
         # Regular paragraphs
         text = clean_text(line)
         if text:
