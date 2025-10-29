@@ -75,6 +75,9 @@ def combine_manuscript():
     missing_count = 0
     missing_files = []
 
+    # Track which files don't need pagebreaks before them
+    no_pagebreak_before = ['REVISED-00_dedication.md']  # Dedication flows after copyright
+
     for location, filename, exists in file_order:
         if location == 'wiki':
             filepath = os.path.join(skylerthomas3_wiki, filename)
@@ -86,8 +89,8 @@ def combine_manuscript():
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # Add page break before each section (except first)
-            if found_count > 0:
+            # Add page break before each section (except first and special cases)
+            if found_count > 0 and filename not in no_pagebreak_before:
                 combined_content.append("\n\n\\pagebreak\n\n")
 
             combined_content.append(content)
