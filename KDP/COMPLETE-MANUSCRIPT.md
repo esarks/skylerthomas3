@@ -2839,31 +2839,51 @@ Your grace, your mercy, your holy name
 
 ## Closing Image
 
-You're standing in the water now. Not all the way in yet—just ankle-deep. But you're in.
+You're standing in the water now. And you're going all the way in.
 
-And the water is exactly what was promised. Living. Flowing. Clean.
+Not ankle-deep. Not waist-deep. All the way. Immersed. Submerged. Baptized into living water that doesn't just touch the surface—it washes every trace of swamp away.
 
-The mud from the swamp is starting to wash away. Not all at once, but gradually. With each step deeper, more of it lifts off and is carried downstream.
+The water is exactly what was promised. Living. Flowing. Clean.
 
-You look down at your feet and you can see them clearly for the first time in years. The water is so clear you can see straight to the bottom. And you realize: This is what I've been longing for. Not just to be clean, but to be seen—truly seen—and loved anyway.
+And as you step deeper, something happens that you didn't expect: the mud doesn't just lighten—it runs off completely. Brown streams pour off your skin as the water does what you could never do for yourself. It cleanses. Thoroughly. Completely.
+
+You look down at your arms, your hands, your feet—and they're clean. Actually clean. Not "mostly clean" or "getting there." Clean.
+
+The water has washed away every trace of the old swamp mud. The shame. The filth. The residue of years spent stuck. Gone. Carried downstream by grace.
 
 *Take a breath.*
 
-You cup water in your hands and pour it over your arms. The mud runs off in brown streams. Underneath: skin. Your actual skin.
+This is the scandal you weren't ready for: Grace doesn't just start the cleaning process. It completes it. You are washed. Made clean. Made new. Not by your effort. Not by your worthiness. But by the water that flows from the source of all life.
 
-You're still a mess. You're still covered in swamp residue. But you're also being washed. Both are true at the same time.
+And here's what makes this moment both wonderful and terrifying:
 
-And from somewhere deep inside—deeper than the shame, deeper than the fear, deeper than the old lies—you hear it rising up. Your voice. Singing.
+**Being made clean isn't the finish line. It's the starting line.**
+
+Because now—cleansed, renewed, washed completely by grace—the real work begins.
+
+Not the work of earning your cleansing. That's done. Finished. Complete.
+
+But the work of living as one who's been cleansed. The work of walking in the freedom grace has purchased. The work of becoming, day by day, who you already are in Christ.
+
+You're clean. Truly clean. And that changes everything.
+
+Because clean hands can do the work grace has prepared for them. Clean feet can walk the path grace has set before them. A clean heart can love the way grace has taught it to love.
+
+And from somewhere deep inside—deeper than the old shame, deeper than the old fear, deeper than the old lies—you hear it rising up. Your voice. Singing.
 
 *Amazing grace, how sweet the sound, that saved a wretch like me. I once was lost but now I'm found, was blind but now I see.*
 
-It's not just a hymn anymore. It's your story.
+It's not just a hymn anymore. It's your declaration. Your reality. Your beginning.
 
-You're at the water's edge. You've stepped in. And grace is washing you clean.
+You're at the water's edge. You've stepped in. You've been washed completely clean.
 
-One step at a time. One breath at a time. One grace-filled moment at a time.
+Not so you can stand still and admire the cleansing.
 
-You're being made new. And it's only just beginning.
+But so you can step forward into everything grace has made you for.
+
+You're clean. Truly, completely, scandalously clean.
+
+And now—now the real journey begins.
 
 ---
 
