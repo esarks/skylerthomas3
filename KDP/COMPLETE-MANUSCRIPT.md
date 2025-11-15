@@ -89,12 +89,12 @@ And most important, to my loving wife and children who didn't leave me when thin
 
 ---
 wp_post_id: 4061
-last_updated: 2025-11-15 17:09:35
+last_updated: 2025-11-15 17:10:30
 ---
 
 # Out of the Swamp: How I Found Truth (Introduction)
 
-*Last updated: 2025-11-15 17:09:35*
+*Last updated: 2025-11-15 17:10:30*
 
 ## Introduction
 
@@ -384,12 +384,12 @@ Let's walk together.
 
 ---
 wp_post_id: 2146
-last_updated: 2025-11-15 17:09:37
+last_updated: 2025-11-15 17:10:31
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 1)
 
-*Last updated: 2025-11-15 17:09:37*
+*Last updated: 2025-11-15 17:10:31*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 
@@ -497,12 +497,12 @@ Before you begin, take a moment. **Where is your swamp?** The actual place where
 
 ---
 wp_post_id: 2148
-last_updated: 2025-11-15 17:09:38
+last_updated: 2025-11-15 17:10:32
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 1)
 
-*Last updated: 2025-11-15 17:09:38*
+*Last updated: 2025-11-15 17:10:32*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 1: My Swamp
@@ -833,12 +833,12 @@ Let's keep walking.
 
 ---
 wp_post_id: 2150
-last_updated: 2025-11-15 17:09:39
+last_updated: 2025-11-15 17:10:32
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 2)
 
-*Last updated: 2025-11-15 17:09:39*
+*Last updated: 2025-11-15 17:10:32*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 2: But Then I Prayed
@@ -1136,12 +1136,12 @@ And somehow—impossibly—that changes everything.
 
 ---
 wp_post_id: 2190
-last_updated: 2025-11-15 17:09:39
+last_updated: 2025-11-15 17:10:33
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 3)
 
-*Last updated: 2025-11-15 17:09:39*
+*Last updated: 2025-11-15 17:10:33*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 3: Dying Changes Everything
@@ -1465,12 +1465,12 @@ But the tomb is not the end.
 
 ---
 wp_post_id: 2193
-last_updated: 2025-11-15 17:09:40
+last_updated: 2025-11-15 17:10:34
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 2)
 
-*Last updated: 2025-11-15 17:09:40*
+*Last updated: 2025-11-15 17:10:34*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 
@@ -1666,12 +1666,12 @@ The water is here. The invitation is extended. Grace is waiting.
 
 ---
 wp_post_id: 2198
-last_updated: 2025-11-15 17:09:40
+last_updated: 2025-11-15 17:10:34
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 4)
 
-*Last updated: 2025-11-15 17:09:40*
+*Last updated: 2025-11-15 17:10:34*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 4: Living Waters Edge
@@ -2045,12 +2045,12 @@ You're at the water's edge. And you're wading in. And it's the beginning of ever
 
 ---
 wp_post_id: 2279
-last_updated: 2025-11-15 17:09:41
+last_updated: 2025-11-15 17:10:35
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 5)
 
-*Last updated: 2025-11-15 17:09:41*
+*Last updated: 2025-11-15 17:10:35*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 5: In the Shadow of Your Grace
@@ -2468,12 +2468,12 @@ In the shadow of grace.
 
 ---
 wp_post_id: 2281
-last_updated: 2025-11-15 17:09:41
+last_updated: 2025-11-15 17:10:35
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 6)
 
-*Last updated: 2025-11-15 17:09:41*
+*Last updated: 2025-11-15 17:10:35*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 6: Amazing Grace I Did Receive
@@ -2683,39 +2683,53 @@ The grace at the water's edge is costly—not in what we pay to receive it, but 
 
 ---
 
-## The Prodigal Son: From the Pigpen to the Father's Embrace
+## The Woman Caught in the Act: Grace When You Deserve Condemnation
 
-Jesus told a story about a younger son who demanded his inheritance early (essentially wishing his father dead), left home, squandered everything, and ended up in a pigpen, so desperate he's eating pig food.
+There's a woman in John 8 who has zero defense. She's been caught in the very act of adultery. Not accused. Not suspected. Caught.
 
-From that pigpen, he makes a decision:
+The religious leaders drag her before Jesus and throw her down in front of the crowd. They're holding stones. The law is clear: adultery is punishable by death.
 
-> "I will go home to my father and say, 'Father, I have sinned against both heaven and you, and I am no longer worthy of being called your son. Please take me on as a hired servant.'"
+She knows what she deserves. There's no excuse. No explanation. No way out.
+
+The leaders aren't really concerned about her. They're using her as bait to trap Jesus. If He says, "Let her go," He's violating the law of Moses. If He says, "Stone her," He's violating His own message of grace.
+
+Jesus doesn't answer immediately. He bends down and writes in the dust. We don't know what He writes. But then He stands and says:
+
+> "All right, but let the one who has never sinned throw the first stone!"
 >
-> — Luke 15:18-19 (NLT)
+> — John 8:7 (NLT)
 
-He's not expecting grace. He's expecting to be a servant at best. He's rehearsing his speech, his offer to earn his way back.
+Then He kneels again and keeps writing.
 
-But watch what happens:
+One by one, the stones drop. The oldest leave first. Then the younger ones. Until it's just Jesus and the woman.
 
-> "So he returned home to his father. And while he was still a long way off, his father saw him coming. Filled with love and compassion, he ran to his son, embraced him, and kissed him."
+> Jesus stood up again and said to the woman, "Where are your accusers? Didn't even one of them condemn you?"
 >
-> — Luke 15:20 (NLT)
-
-The father doesn't wait for the apology. Doesn't wait for the son to grovel. While the son is still far off, the father runs.
-
-When the son tries to give his speech, the father cuts him off. He calls for the best robe, a ring, sandals. He throws a party.
-
-This is scandalous grace. The son deserves nothing. He's squandered everything. He's come home smelling like pigs. But the father doesn't care about what he deserves. The father cares about who he is: his son.
-
-Grace isn't based on worthiness. It's based on relationship.
-
-Henri Nouwen writes:
-
-> "The father's love is unconditional... There are no 'ifs.' The love of the father is given, not as the reward for effort, but as a pure gift. The younger son did not deserve that love... But the father gives it anyway."
+> "No, Lord," she said.
 >
-> — Henri Nouwen, *The Return of the Prodigal Son*
+> And Jesus said, "Neither do I. Go and sin no more."
+>
+> — John 8:10-11 (NLT)
 
-The son comes home to be a servant. The father makes him a son. That's grace.
+**This is amazing grace.**
+
+Not "I'll overlook it this time." Not "You get one more chance." Not "Clean yourself up and then I'll accept you."
+
+Just: "Neither do I condemn you."
+
+She deserved death. She received life. She deserved condemnation. She received freedom. She deserved rejection. She received grace.
+
+This is what grace does. It meets us in our absolute worst moment—when we're guilty, exposed, ashamed, with no defense—and says, "Neither do I condemn you."
+
+Not because we're innocent. We're not. But because grace doesn't operate on the basis of what we deserve. It operates on the basis of who God is.
+
+Philip Yancey writes:
+
+> "Grace means there is nothing we can do to make God love us more... And grace means there is nothing we can do to make God love us less."
+>
+> — Philip Yancey, *What's So Amazing About Grace?*
+
+The woman caught in adultery didn't earn her freedom. She received it. As a gift. From the only One who had the right to condemn her—and chose not to.
 
 ---
 
@@ -2892,12 +2906,12 @@ And now—now the real journey begins.
 
 ---
 wp_post_id: 2296
-last_updated: 2025-11-15 17:09:42
+last_updated: 2025-11-15 17:10:36
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 7)
 
-*Last updated: 2025-11-15 17:09:42*
+*Last updated: 2025-11-15 17:10:36*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 7: Dig a Little Deeper
@@ -3166,49 +3180,59 @@ Digging deeper means re-opening the wells. Going back to what was true from the 
 
 And when you do, the water is still there. Still living. Still life-giving.
 
-**The Woman at the Well Going Deeper (John 4)**
+**The Woman Who Had to Dig Deep Within (Mark 5)**
 
-It's noon—the hottest part of the day. No one comes to the well at noon if they can help it. You come in the morning or evening when it's cooler.
+Twelve years. Twelve years of bleeding that never stops.
 
-But this woman comes at noon. Alone. Because she can't face the other women. Can't bear the stares, the whispers, the judgment. Five marriages. Five. And the man she's with now isn't even her husband.
+Twelve years of being ceremonially unclean—unable to touch anyone, unable to worship in the temple, unable to live a normal life.
 
-So she comes when no one else is there.
+Twelve years of doctors who took all her money and made her worse, not better.
 
-Except today, there's a Jewish man sitting by the well. And He speaks to her.
+She's broke. She's desperate. She's isolated. And she's heard that Jesus is passing through town.
 
-The conversation starts surface-level:
+This is her moment. But there's a problem: she's unclean. By law, she shouldn't be in this crowd. If she touches anyone, she defiles them. If she touches Jesus—a rabbi—she could make Him unclean.
 
-Woman: "You're a Jew. I'm a Samaritan. Why are you even talking to me?"
+She has no right to reach out. But she's desperate.
 
-But Jesus goes deeper:
+And desperation forces you to dig deep.
 
-Jesus: "If you knew who was asking, you'd ask me for living water."
+She has to dig past the fear: *What if I'm caught? What if they stone me for defiling the crowd?*
 
-Woman: "You don't have a bucket. Where's this water coming from?"
+She has to dig past the shame: *I'm unclean. I'm untouchable. I don't deserve to be here.*
 
-Still surface. But Jesus goes deeper:
+She has to dig past the doubt: *What if this doesn't work? What if I've spent twelve years hoping and there's no healing for me?*
 
-Jesus: "Everyone who drinks this water will be thirsty again, but whoever drinks the water I give will never thirst."
+But beneath all that fear, beneath all that shame, beneath all that doubt—there's something deeper. A kernel of faith. Small. Fragile. But real.
 
-Woman: "Sir, give me this water!"
+**"If I just touch his clothes, I will be healed."**
 
-Getting closer. But Jesus goes even deeper:
+That's bedrock. That's what she finds when she digs all the way down. Faith. Simple. Desperate. Absolute.
 
-Jesus: "Go call your husband."
+So she pushes through the crowd. Presses in. Reaches out. Her fingers brush the edge of His cloak.
 
-There it is. The question she dreads.
+Immediately, she feels it. The bleeding stops. Twelve years of suffering—gone in an instant.
 
-Woman: "I don't have a husband."
+Jesus stops. "Who touched me?"
 
-Jesus: "You're right. You've had five husbands, and the man you're with now isn't your husband."
+The disciples are confused. "You're in a crowd. Lots of people are touching you."
 
-Now we're at the wound. The shame. The thing she came at noon to avoid facing.
+But Jesus knows. Someone touched Him in faith. And He's not going to let that moment pass without acknowledgment.
 
-And Jesus—He doesn't condemn her. Doesn't lecture her. Doesn't pull back in disgust. He just sees her. Fully. Knows her completely. And still offers her living water.
+Terrified, trembling, the woman falls at His feet and tells Him the whole truth.
 
-From this depth—the place of wound and shame and honesty—she encounters Jesus as the Messiah. And everything changes. She leaves her water jar behind and runs back to town, no longer hiding, and tells everyone: "Come see a man who told me everything I ever did!"
+> "Daughter, your faith has healed you. Go in peace and be freed from your suffering."
+>
+> — Mark 5:34
 
-That's what happens when we let truth go deep. Transformation flows from depth, not surface.
+**This is what happens when you dig deep.**
+
+She could have stayed on the surface—stayed home, stayed safe, stayed isolated. But she dug deeper. Past the fear. Past the shame. Past the doubt. All the way down to faith.
+
+And when she acted on what she found in the depths, everything changed.
+
+Digging deep isn't passive. It's not just introspection or self-awareness. It's excavating all the way down to bedrock truth and then acting on it—even when it's risky, even when it's terrifying, even when you have no guarantee it will work.
+
+That's the work of going deeper. And it's the only way to breakthrough.
 
 ---
 ## The Core Scripture Truth
@@ -3451,12 +3475,12 @@ And grace, you're discovering, has no bottom.
 
 ---
 wp_post_id: 2300
-last_updated: 2025-11-15 17:09:42
+last_updated: 2025-11-15 17:10:36
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 3)
 
-*Last updated: 2025-11-15 17:09:42*
+*Last updated: 2025-11-15 17:10:36*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 
@@ -3616,12 +3640,12 @@ If you can, you're ready for Movement 3.
 
 ---
 wp_post_id: 2302
-last_updated: 2025-11-15 17:09:43
+last_updated: 2025-11-15 17:10:37
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 8)
 
-*Last updated: 2025-11-15 17:09:43*
+*Last updated: 2025-11-15 17:10:37*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 8: Unforced Rhythms of Grace
@@ -4118,12 +4142,12 @@ Into mindful bliss.
 
 ---
 wp_post_id: 2317
-last_updated: 2025-11-15 17:09:43
+last_updated: 2025-11-15 17:10:37
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 9)
 
-*Last updated: 2025-11-15 17:09:43*
+*Last updated: 2025-11-15 17:10:37*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 9: Deep Roots, Strong Growth
@@ -4605,12 +4629,12 @@ Deeply rooted in the love of God.
 
 ---
 wp_post_id: 2318
-last_updated: 2025-11-15 17:09:44
+last_updated: 2025-11-15 17:10:38
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 10)
 
-*Last updated: 2025-11-15 17:09:44*
+*Last updated: 2025-11-15 17:10:38*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 10: Redemption's Story
@@ -5112,12 +5136,12 @@ Forever redeemed. Forever His own.
 
 ---
 wp_post_id: 2319
-last_updated: 2025-11-15 17:09:44
+last_updated: 2025-11-15 17:10:38
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 11)
 
-*Last updated: 2025-11-15 17:09:44*
+*Last updated: 2025-11-15 17:10:38*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 11: Nothing is Wasted
@@ -5522,12 +5546,12 @@ Nothing is wasted.
 
 ---
 wp_post_id: 2321
-last_updated: 2025-11-15 17:09:45
+last_updated: 2025-11-15 17:10:39
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 12)
 
-*Last updated: 2025-11-15 17:09:45*
+*Last updated: 2025-11-15 17:10:39*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 12: This Moment is Enough
@@ -5977,12 +6001,12 @@ It's everything.
 
 ---
 wp_post_id: 4060
-last_updated: 2025-11-15 17:09:45
+last_updated: 2025-11-15 17:10:39
 ---
 
 # Out of the Swamp: How I found Truth (Epilogue: The Road Ahead)
 
-*Last updated: 2025-11-15 17:09:45*
+*Last updated: 2025-11-15 17:10:39*
 
 You've journeyed from swamp to water's edge to unforced rhythms. You've named your struggle, cried out in prayer, let something die, and discovered that dying to self changes everything.
 
