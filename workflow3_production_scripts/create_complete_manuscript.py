@@ -76,7 +76,7 @@ def combine_manuscript():
     missing_files = []
 
     # Track which files don't need pagebreaks before them
-    no_pagebreak_before = ['REVISED-00_dedication.md']  # Dedication flows after copyright
+    no_pagebreak_before = []  # All sections get pagebreaks
 
     for location, filename, exists in file_order:
         if location == 'wiki':

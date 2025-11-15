@@ -439,7 +439,10 @@ def parse_markdown_to_pdf(md_file, output_pdf):
 
         if line.startswith('## '):
             text = clean_text(line[3:])
-            # Page breaks are now handled by manuscript assembly via \pagebreak markers
+            # Insert page break before "A Final Word"
+            if 'A Final Word' in text:
+                if len(story) > 0:
+                    story.append(PageBreak())
             para = Paragraph(text, h2_style)
             story.append(para)
             i += 1
@@ -453,13 +456,10 @@ def parse_markdown_to_pdf(md_file, output_pdf):
             continue
 
         # Blockquotes
-        if line.startswith('>'):
+        if line.startswith('> '):
             quote_lines = []
-            while i < len(lines) and lines[i].startswith('>'):
-                # Strip the '>' and any following space
-                quote_line = lines[i].lstrip('>').strip()
-                if quote_line:  # Only add non-empty lines
-                    quote_lines.append(quote_line)
+            while i < len(lines) and lines[i].startswith('> '):
+                quote_lines.append(lines[i][2:].strip())
                 i += 1
 
             quote_text = ' '.join(quote_lines)

@@ -94,10 +94,18 @@ def clean_manuscript_for_epub(input_file, output_file):
             i += 1
             continue
 
-        # Skip "Listen at:" lines (redundant in EPUB - song title is already a clickable link)
+        # Convert "Listen at:" lines to proper markdown clickable links
         if line.startswith('**Listen at:**') or line.startswith('Listen at:'):
-            i += 1
-            continue
+            # Extract the URL from the line
+            # Format: **Listen at:** http://go.skylerthomas.com/8o4Etw
+            url_match = re.search(r'http[s]?://[^\s]+', line)
+            if url_match:
+                url = url_match.group(0)
+                # Convert to markdown link format: [Listen to the song](URL)
+                clickable_line = f"[**🎵 Listen to the song**]({url})\n"
+                cleaned_lines.append(clickable_line)
+                i += 1
+                continue
 
         # Keep Movement intro H1 headings so they appear as chapters in EPUB
         # (No special handling needed - blank line collapsing handles spacing)
@@ -146,8 +154,8 @@ def create_epub():
     print("\n🔄 Cleaning manuscript for EPUB...")
     print("   • Removing metadata blocks")
     print("   • Removing manual Table of Contents (EPUB auto-generates it)")
-    print("   • Removing QR code images (links are clickable in EPUB)")
-    print("   • Removing 'Listen at:' lines (song titles are already clickable)")
+    print("   • Removing QR code images (not needed - links are clickable)")
+    print("   • Converting 'Listen at:' URLs to clickable links")
     print("   • Removing LaTeX commands")
     clean_manuscript_for_epub(input_file, temp_file)
 
