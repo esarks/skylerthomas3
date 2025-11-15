@@ -2324,68 +2324,62 @@ The shadow of grace teaches crucial truths: Proximity matters more than circumst
 ## Lyrics: In the Shadow of Your Grace
 
 **[Verse 1]**
-Your grace has lifted me from shame,
-Restoring hope, erasing blame.
-Your mercy shines, my heart is new,
-Forever, Lord, I'll worship you.
+I’ve been running, I’ve been hiding,
+Worn out from the fight.
+Tangled up in chains I fastened,
+Lost inside the night.
+
+**[Pre-Chorus]**
+But You call my name, You take the weight,
+You step right into my mistake.
+You tear the veil, You light the way,
+I won’t go back, I won’t be the same!
 
 **[Chorus]**
-Grace, grace, God's grace,
-Lifting the burden, the weight erased.
-Grace, grace, unending grace,
-Love that restores and fills this place.
-Oh, Your grace, grace, God's grace,
-Stronger than sin, forever the same
+Oh, in the shadow of Your grace,
+Every fear begins to fade.
+Where mercy meets me face to face,
+I am free, I’m not the same!
 
 **[Verse 2]**
-You bore my burden, healed my pain,
-Your sacrifice has broken chains.
-Through every storm, Your love remains,
-I lift my voice in endless praise.
+I’ve been restless, wide-eyed, sleepless,
+Haunted by my past.
+But Your blood is still my ransom,
+And Your love is built to last.
+
+**[Pre-Chorus]**
+You call my name, You take the weight,
+You step right into my mistake.
+You tear the veil, You light the way,
+I won’t go back, I won’t be the same!
+
+**[Chorus]**
+Oh, in the shadow of Your grace,
+Every fear begins to fade.
+Where mercy meets me face to face,
+I am free, I’m not the same!
 
 **[Bridge]**
-In the shadow of grace, I find my rest,
-Your whisper calms the chaos, the test.
-"Come to Me," You softly say,
-"I'll take your burden; I'll lead the way."
+No more hiding, no more grave,
+Hell is shaking, heaven stays!
+Chains are falling, fear erased,
+I am free in Jesus’ name!
 
-**[Chorus]**
-Grace, grace, God's grace,
-Lifting the burden, the weight erased.
-Grace, grace, unending grace,
-Love that restores and fills this place.
-Oh, Your grace, grace, God's grace,
-Stronger than sin, forever the same
+**[Tag]**
+I won’t bow down, I won’t break,
+Darkness runs when I say His name!
+I won’t bow down, I won’t break,
+I’m alive in Jesus’ name!
 
-**[Verse 3]**
-Your grace, a light that leads my way,
-It fills my soul with joy each day.
-No greater gift could there ever be,
-Than grace that flows eternally.
-
-**[Verse 4]**
-Oh, Lord, You've written my name above,
-Clothed me in mercy, wrapped in love.
-With every breath, my song will rise,
-Your grace, my anthem, never dies.
-
-**[Chorus]**
-Grace, grace, God's grace,
-Lifting the burden, the weight erased.
-Grace, grace, unending grace,
-Love that restores and fills this place.
-Oh, Your grace, grace, God's grace,
-Stronger than sin, forever the same
-
-**[Outro]**
-There's hell on Earth in separation,
-But Heaven comes in Your salvation.
-Grace that pardons, grace that frees,
-Grace that's calling, even me.
-Grace, grace, God's grace,
-Greater than all my sin and disgrace.
-I'm alive in Your name.
-Your grace, my anthem, never dies.
+**[Final Chorus]**
+Oh, in the shadow of Your grace,
+Every fear begins to fade.
+Where mercy meets me face to face,
+I am free, I’m not the same!
+I’ve been running, I’ve been hiding,
+Worn out from the fight.
+Tangled up in chains I fastened,
+Lost inside the night.
 
 ---
 
@@ -2467,6 +2461,7 @@ Under His wings.
 In the shadow of grace.
 
 ---
+
 
 
 \pagebreak
@@ -2735,13 +2730,13 @@ Because grace isn't just a doctrine. It's an encounter.
 
 The wayfarer moment is when you stop understanding grace in the abstract and start experiencing it in the specific. Not just "God loves the world" but "God loves me." Not just "Jesus died for sinners" but "Jesus died for me."
 
-The writer of the blog wasn't learning about grace for the first time. They'd grown up knowing the truth. But they'd trampled on that gift. Traded it for autonomy. And ended up in a grave of their own making.
+When I wrote the words about grace, I wasn't learning about grace for the first time. I'd grown up knowing the truth. But I trampled on that gift. Traded it for autonomy. And ended up in a grave of my own making.
 
-The wayfarer moment came when they stood at the dead end of their self-made road and heard the whisper: "Turn around. The water is here. Just trust Me."
+The wayfarer moment came when I stood at the dead end of my self-made road and heard the whisper: "Turn around. The water is here. Just trust Me."
 
-And they did. One step. Then another. And with each step, they felt God's hand lifting them out of the grave.
+And I did. One step. Then another. And with each step, I felt God's hand lifting me out of the grave.
 
-That's when grace stopped being a hymn they sang and became their testimony.
+That's when grace stopped being a hymn I sang and became my testimony.
 
 *I once was lost but now I'm found. Was blind but now I see.*
 
@@ -2871,6 +2866,7 @@ One step at a time. One breath at a time. One grace-filled moment at a time.
 You're being made new. And it's only just beginning.
 
 ---
+
 
 
 \pagebreak
